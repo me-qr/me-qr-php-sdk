@@ -1,0 +1,5 @@
+output_*.png
+output_*.jpg
+output_*.svg
+output_*.json
+vendor/
