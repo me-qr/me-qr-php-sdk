@@ -1,0 +1,28 @@
+{
+    "name": "me-qr/me-qr-php-sdk",
+    "description": "Official PHP SDK for the ME-QR API",
+    "type": "library",
+    "license": "MIT",
+    "keywords": ["qr", "qr-code", "me-qr", "api", "sdk"],
+    "homepage": "https://me-qr.com",
+    "authors": [
+        {
+            "name": "ME-QR",
+            "homepage": "https://me-qr.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.1",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "MeQR\\": "src/"
+        },
+        "files": [
+            "MEQRClient.php"
+        ]
+    },
+    "minimum-stability": "stable"
+}
