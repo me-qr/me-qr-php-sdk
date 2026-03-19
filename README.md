@@ -149,3 +149,19 @@ try {
 | `jpeg` | Smaller file size                 |
 | `svg`  | High-resolution / infinite scale  |
 | `json` | Raw QR matrix data                |
+
+---
+
+## Links
+
+- 🌐 **Website**: [me-qr.com](https://me-qr.com)
+- 📖 **API Docs**: [me-qr.com/api/doc](https://me-qr.com/api/doc)
+- 💰 **Pricing**: [me-qr.com/pricing](https://me-qr.com/pricing)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/me-qr/me-qr-php-sdk/issues)
+- 🐘 **Packagist**: [packagist.org/packages/me-qr/me-qr-php-sdk](https://packagist.org/packages/me-qr/me-qr-php-sdk)
+
+---
+
+## License
+
+MIT © [ME-QR](https://me-qr.com)
